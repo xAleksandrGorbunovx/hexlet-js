@@ -1,12 +1,15 @@
 {
   "name": "hexlet",
   "version": "1.0.0",
-   "type": "module",
+  "type": "module",
   "description": "hexlet-js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
